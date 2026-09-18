@@ -3,3 +3,6 @@ There are 2 main modes of running: classic and full feature. Classic mode is com
 The source code and scripts were hastily reduced from their development configuration, and are provided "as-is".
 
 All code and resources are covered by the attached license or by their original licenses.
+
+This project is active.
+Unposted changes: All numbers should be adjusted down 5%. Testing code can be sped up 2x.
